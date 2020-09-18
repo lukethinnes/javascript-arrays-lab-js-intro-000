@@ -1,4 +1,4 @@
 var kittens = ["Milo", "Otis", "Garfield"]
-var destructivelyAppendKitten(array) {
+var destructivelyAppendKitten(array[]) {
   kittens.push("Sphynxy")
 }
